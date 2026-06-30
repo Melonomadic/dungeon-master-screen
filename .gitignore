@@ -1,0 +1,14 @@
+# Python virtual environment
+venv/
+__pycache__/
+
+# Secret environment variables
+.env
+
+# --- NEW ---
+# Firebase service account key
+# This is a password! DO NOT SHARE IT.
+firebase-service-account.json
+
+# Local data file (now legacy)
+characters.json
